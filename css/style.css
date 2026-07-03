@@ -1,0 +1,96 @@
+.texto{
+    font-size: 50px;
+    color:aliceblue;
+     text-align: center;
+     font-family: "Playfair Display", serif;
+     margin:0
+}
+
+.texto2{
+    font-size: 20px;
+    color:aliceblue;
+     text-align: center;
+     font-family: "Playfair Display", serif;
+     margin:0
+}
+.topo{
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../imagem4.avif");
+   background-size: cover;
+   background-position: center;
+   height: 300px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   color: white;
+}
+
+
+
+body{
+    margin:0;
+}
+
+
+
+.banner{
+   background-image: url("../imagem3.jpg");
+   background-size: cover;
+   background-position: center;
+   height: 400px;
+}
+
+.topo{
+
+border:0px solid white;
+border-radius: 2px;
+}
+
+
+.topo2{
+  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(250, 245, 245, 0.5)), url("../2.jpg");
+   background-size: cover;
+   background-position: center;
+   height: 300px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   color: white;
+}
+
+.banner2{
+   background-image: url("../imagembranca.avif");
+   background-size: cover;
+   background-position: center;
+   height: 400px;
+    display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+
+
+}
+
+.texto3{
+    font-size: 30px;
+    color:rgb(10, 20, 29);
+     text-align: center;
+     font-family: "Playfair Display", serif;
+     margin:0
+}
+
+.texto4{
+    font-size: 20px;
+    color:rgb(10, 20, 29);
+     text-align: center;
+     font-family: "Playfair Display", serif;
+     margin:0
+}
+.texto5{
+    font-size: 20px;
+    color:rgb(75, 76, 77);
+     text-align: center;
+     font-family: "Playfair Display", serif;
+     margin:40px;
+}
